@@ -1,0 +1,46 @@
+_repo: Studies-in-the-History-and-Method-of-Science_46572
+contributor:
+  contributor:
+    agent_name: Osler, William
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '660'
+    url: http://www.gutenberg.org/2009/agents/660
+    wikipedia: http://en.wikipedia.org/wiki/William_Osler
+  creator:
+    editor:
+      agent_name: Charles, d'Orléans
+      aliases:
+      - D'Orléans, Charles
+      - Charles, d'Orleans
+      - Charles, duc d'Orléans
+      - Orléans, Charles d'
+      birthdate: 1394
+      deathdate: 1465
+      gutenberg_agent_id: '5483'
+      url: http://www.gutenberg.org/2009/agents/5483
+      wikipedia:
+      - http://en.wikipedia.org/wiki/Charles,_duc_d'Orléans
+      - http://fr.wikipedia.org/wiki/Charles_d'Orléans_(1394-1465)
+covers:
+- cover_type: archival
+  image_path: 46572/46572-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Studies in the History and Method of Science
+url: http://www.gutenberg.org/ebooks/46572
