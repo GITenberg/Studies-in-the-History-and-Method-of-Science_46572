@@ -1,4 +1,5 @@
 _repo: Studies-in-the-History-and-Method-of-Science_46572
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Osler, William
@@ -24,9 +25,7 @@ contributor:
       - http://fr.wikipedia.org/wiki/Charles_d'Orléans_(1394-1465)
 covers:
 - cover_type: archival
-  image_path: 46572/46572-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46572-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Various
@@ -34,6 +33,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46572#Studies-in-the-History-and-Method-of-Science
 gutenberg_issued: '2014-08-12'
 gutenberg_type: Text
 identifiers:
